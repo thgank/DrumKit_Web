@@ -39,6 +39,3 @@ for(i = 0; i < numberOfButtons; i++){
        });
 };
 
-/*var audio = new Audio('sounds/tom-1.mp3');
-              audio.play();
-*/
